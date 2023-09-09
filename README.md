@@ -1,4 +1,4 @@
 # ⚡ Lighting Fast Creator
 Create Discord Bot accounts using your terminal!
 
-# This is free to use but you cannot sell this or remove credits and claim as yours!
+# This was created for 100% educational purposes only. I created this to show people it is possible to create discord bots using terminal.
